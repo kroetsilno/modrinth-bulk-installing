@@ -1,1 +1,1 @@
-# modrinth-bulk-installing
+Modrinth mods/modpacks bulk installing
